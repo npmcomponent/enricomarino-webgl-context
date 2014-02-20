@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-webgl-context",
+  "description": "WebGL context",
+  "version": "0.1.0",
+  "keywords": [
+    "webgl",
+    "context"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
